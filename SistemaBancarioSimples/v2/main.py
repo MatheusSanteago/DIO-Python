@@ -51,7 +51,7 @@ def criar_cliente(*, rua, bairro, municipio, uf, cpf, nome, nascimento, nacional
 def listar_usuarios():
     for i in range(len(contas)):
         print(contas[i])
-1
+
 
 def depositar(valor, /, metodo, conta_corrente):
     conta = conta_corrente.copy()
