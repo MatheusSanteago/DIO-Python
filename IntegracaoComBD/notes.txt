@@ -1,0 +1,23 @@
+SQL Alchemy
+-- ORM e Core 
+-- Suporte a dialetos 
+-- Manipulamento a parti de Transações
+-- Config de Relações e relacionamentos
+
+Extensões 
+-- I/O assíncrono
+-- Associação com proxy 
+-- Apis especiais 
+
+Modelo ORM - Object Relational Mapping 
+OOP <---> Banco de Dados 
+[CRUD - QUERY - CONEXÃO COM BD]
+
+Vantagens 
+- Menos código 
+- Melhor manutenção 
+- Utilização de Conectores 
+- Indicado para CRUD
+
+ORM faz uma troca de SGBD melhor, MVC, Menos DRY\
+
